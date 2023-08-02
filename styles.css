@@ -1,0 +1,28 @@
+body{
+    font-family: 'roboto' sans-serif;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+    background-color: #1f2937;
+}
+
+ul{
+    display: flex; 
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 16px;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+img {
+    width: 80px;
+}
