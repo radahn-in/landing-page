@@ -60,9 +60,36 @@ button {
     border-radius: 5px;
     border: none;
     padding: 8px 16px;
-    
+}
+.information{
+    text-align: center;
 }
 
+.title{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    margin: 48px;
+    padding: 16px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    border: 5px solid #3882f6;
+    margin-bottom: 10px;
+    border-radius: 10%;
+}
+
+.info{
+    max-width: 150px;
+}
 
 
 
