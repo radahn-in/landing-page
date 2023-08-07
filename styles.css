@@ -35,8 +35,8 @@ a {
 .hero {
     flex: 1;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-evenly;
+    
     padding: 72px;
     background-color: #1f2937;
     margin: 0;
